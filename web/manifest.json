@@ -1,6 +1,6 @@
 {
-    "name": "exam_app",
-    "short_name": "exam_app",
+    "name": "ExamApp",
+    "short_name": "ExamApp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
